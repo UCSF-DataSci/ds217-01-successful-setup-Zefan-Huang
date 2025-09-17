@@ -13,12 +13,12 @@ In this class, I want to refine my Python skill and check for omissions. My care
 
 ## 3. What are you most looking forward to or tentative about?
 [What excites you about programming/data science? What concerns or uncertainties do you have?]
-I do like coding(at least for now). The best part about coding is I can quickly implement an idea instead looking for lots of hardware. Especailly right now, LLM can make this idea even more. I'm a bit concern about vibe coding with the growing of the LLM.
+I do like coding(at least for now). The best part about coding is I can quickly implement an idea instead looking for lots of hardware. Especailly right now, LLM can make this idea even more mature. I'm a bit concern about vibe coding with the growing of the LLM.
 
 
 ## 4. Share something you enjoy!
 [Drop a link to something you really enjoy - could be a website, article, video, project, hobby, book, podcast, or anything else you're into]
-Deep leaning ['https://www.google.com/search?q=Deep+Learning+with+PyTorch&rlz=1C5CHFA_enUS1063US1071&oq=&gs_lcrp=EgZjaHJvbWUqCQgBEEUYOxjCAzIJCAAQRRg7GMIDMgkIARBFGDsYwgMyCQgCEEUYOxjCAzIJCAMQRRg7GMIDMgkIBBBFGDsYwgMyCQgFEEUYOxjCAzIJCAYQRRg7GMIDMgkIBxBFGDsYwgPSAQkxNzAwajBqMTWoAgiwAgHxBU-g2HB43uMs&sourceid=chrome&ie=UTF-8']
+[Deep leaning in Pytorch][https://www.google.com/search?q=Deep+Learning+with+PyTorch&rlz=1C5CHFA_enUS1063US1071&oq=&gs_lcrp=EgZjaHJvbWUqCQgBEEUYOxjCAzIJCAAQRRg7GMIDMgkIARBFGDsYwgMyCQgCEEUYOxjCAzIJCAMQRRg7GMIDMgkIBBBFGDsYwgMyCQgFEEUYOxjCAzIJCAYQRRg7GMIDMgkIBxBFGDsYwgPSAQkxNzAwajBqMTWoAgiwAgHxBU-g2HB43uMs&sourceid=chrome&ie=UTF-8]
 ---
 
 *Thank you for sharing! Your responses help me get to know you and hopefully make the course better!*
