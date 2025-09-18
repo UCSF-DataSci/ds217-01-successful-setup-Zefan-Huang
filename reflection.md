@@ -18,7 +18,7 @@ I do like coding(at least for now). The best part about coding is I can quickly 
 
 ## 4. Share something you enjoy!
 [Drop a link to something you really enjoy - could be a website, article, video, project, hobby, book, podcast, or anything else you're into]
-[Deep leaning in Pytorch][https://www.google.com/search?q=Deep+Learning+with+PyTorch&rlz=1C5CHFA_enUS1063US1071&oq=&gs_lcrp=EgZjaHJvbWUqCQgBEEUYOxjCAzIJCAAQRRg7GMIDMgkIARBFGDsYwgMyCQgCEEUYOxjCAzIJCAMQRRg7GMIDMgkIBBBFGDsYwgMyCQgFEEUYOxjCAzIJCAYQRRg7GMIDMgkIBxBFGDsYwgPSAQkxNzAwajBqMTWoAgiwAgHxBU-g2HB43uMs&sourceid=chrome&ie=UTF-8]
+Deeplearning.AI is a great website to see what's going on in AI world, it shows lastest news and technologies. (Link: https://www.deeplearning.ai/the-batch/)
 ---
 
 *Thank you for sharing! Your responses help me get to know you and hopefully make the course better!*
